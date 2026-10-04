@@ -1,0 +1,41 @@
+<!DOCTY
+PE html>
+<html>
+<head>
+<title>My Portfolio</title>
+<style>
+body{font-family: Arial; text-align:center; background:#f4f4f4; margin:0}
+.header{background:black; color:white; padding:40px}
+.card{background:white; margin:20px; padding:20px; border-radius:10px}
+a{background:black; color:white; padding:10px 20px; text-decoration:none; border-radius:5px}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Rida Zahra</h1>
+<p>AI Student | Web Developer</p>
+</div>
+
+<div class="card">
+<h2>About Me</h2>
+<p>I am learning AI and Web Development. I have completed AI Prompting course from DeepLearning.ai</p>
+</div>
+
+<div class="card">
+<h2>My Skills</h2>
+<p>HTML | CSS | AI Prompting | ChatGPT | Python Basic</p>
+</div>
+
+<div class="card">
+<h2>My Projects</h2>
+<p>1. AI Prompting Certificate Project<br>2. Portfolio Website</p>
+</div>
+
+<div class="card">
+<h2>Contact</h2>
+<p>Email: yourname@gmail.com</p>
+<a href="https://www.linkedin.com/in/rida-zahra-26ba42246">My LinkedIn</a>
+</div>
+
+</body>
+</html>
